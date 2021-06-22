@@ -1,0 +1,9 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.parution {
+   text-align: justify;
+   list-style-type:georgian ;
+}
